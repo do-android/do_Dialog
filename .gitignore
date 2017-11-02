@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Dialog/libs/docore.jar
+/doExt_do_Dialog/do_build.xml
+/doExt_do_Dialog/do_Dialog.zip
